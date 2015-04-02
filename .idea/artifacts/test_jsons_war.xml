@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="test-jsons:war">
+    <output-path>$PROJECT_DIR$/test-jsons/target</output-path>
+    <root id="archive" name="test-json.war">
+      <element id="artifact" artifact-name="test-jsons:war exploded" />
+    </root>
+  </artifact>
+</component>

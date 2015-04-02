@@ -1,0 +1,28 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="test-jsons:war exploded">
+    <output-path>$PROJECT_DIR$/test-jsons/target/test-json</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="test-jsons" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.apache.poi:poi:3.9" />
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.5" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.5" />
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.5" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.5.1" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-core-asl:1.9.13" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.9.13" />
+          <element id="library" level="project" name="Maven: org.quartz-scheduler:quartz:2.2.0" />
+          <element id="library" level="project" name="Maven: c3p0:c3p0:0.9.1" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.2" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="F:\yyljlyy\LCode\test-json\test-jsons\target/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="test-jsons/web/Web" />
+    </root>
+  </artifact>
+</component>
